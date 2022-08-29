@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "js": "^0.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "captcha-bot-v14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
